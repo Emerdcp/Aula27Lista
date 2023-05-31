@@ -1,5 +1,5 @@
 <?php
-$server = '10.125.44.38';
+$server = '127.0.0.1';
 $db = 'sistema';
 $user = 'usuariosistema';
 $pass = 'sis@123#456';
